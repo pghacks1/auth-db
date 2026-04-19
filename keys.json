@@ -1,6 +1,17 @@
 [
-  {
-    "key": "PG-TOOL",
-    "used": false
-  }
+    {
+        "key": "PG-111AAA222",
+        "used": false,
+        "hwid": "e6959dc2f7eb95e9a0a36a75457600a74f20e9611b763d55d2c391208f0f2b95"
+    },
+    {
+        "key": "PG-222BBB333",
+        "used": false,
+        "hwid": ""
+    },
+    {
+        "key": "PG-333CCC444",
+        "used": true,
+        "hwid": "a1b2c3d4e5"
+    }
 ]
