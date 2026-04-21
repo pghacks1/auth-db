@@ -6,9 +6,9 @@
     "expiry": "2029-04-20"
   },
   {
-    "key": "PG-LIFETIMEKEY",
+    "key": "PG-1DAY-IDGAF",
     "used": false,
-    "hwid": "a43992a902ee424fae10d97e07e81e5b41784b29320ff1905fffee4b19d57c6e",
-    "expiry": "lifetime"
+    "hwid": "",
+    "expiry": "86400"
   }
 ]
