@@ -6,9 +6,9 @@
     "expiry": "2029-04-20"
   },
   {
-    "key": "PG-1DAY-IDGAF",
-    "used": false,
-    "hwid": "",
-    "expiry": "2026-04-23"
+    "key": "PG-LIFE-IDGAF",
+    "used": true,
+    "hwid": "bb11b41a6519c51a71da704be3f0a1755a3564311060b48c07e9b44b7d315cbc",
+    "expiry": "2070-04-23"
   }
 ]
