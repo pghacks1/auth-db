@@ -10,5 +10,11 @@
     "used": true,
     "hwid": "bb11b41a6519c51a71da704be3f0a1755a3564311060b48c07e9b44b7d315cbc",
     "expiry": "2070-04-23"
+  },
+  {
+    "key": "PG-LIFE-VIP",
+    "used": false,
+    "hwid": "",
+    "expiry": "2070-04-23"
   }
 ]
